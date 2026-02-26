@@ -1,0 +1,6 @@
+scikit-learn
+streamlit
+langchain
+langchain-classic
+langchain-groq  
+gtts
